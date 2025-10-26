@@ -1,4 +1,4 @@
-# Fire-Risk-Predictor
+# Used_Car_Price_Predictor
 
 Abstract: 
 This project focuses on developing a Used Car Price Predictor, a machine learning model designed to estimate the market value of used vehicles based on their features such as make, model, year, mileage, condition, etc. The purpose of this model is to assist consumers, dealerships, and online marketplaces in determining fair prices in the rapidly changing used car market. Using a large dataset of historical vehicle listings, the project applies data preprocessing, exploratory data analysis, and regression-based predictive modeling techniques to identify patterns that influence car prices. Index Terms: machine learning, regression, decision-tree, neural-network
